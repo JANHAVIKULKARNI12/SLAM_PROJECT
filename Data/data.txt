@@ -1,0 +1,6 @@
+Data used:
+2011_09_26_drive_0056 (1.2 GB)
+Length: 300 frames (00:30 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 13 Cars, 3 Vans, 1 Trucks, 2 Pedestrians, 0 Sitters, 1 Cyclists, 6 Trams, 2 Misc
+Download it from: https://s3.eu-central-1.amazonaws.com/avg-kitti/raw_data/2011_09_26_drive_0056/2011_09_26_drive_0056_sync.zip
